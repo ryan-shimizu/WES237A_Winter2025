@@ -1,0 +1,1 @@
+cmd_/home/xilinx/jupyter_notebooks/Lab3/kernel_module/modules.order := {   echo /home/xilinx/jupyter_notebooks/Lab3/kernel_module/CPUcntr.ko; :; } | awk '!x[$$0]++' - > /home/xilinx/jupyter_notebooks/Lab3/kernel_module/modules.order
